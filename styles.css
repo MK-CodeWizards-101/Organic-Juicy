@@ -562,7 +562,7 @@ body {
 
 .slider-arrows,
 .slider-dots {
-  height: 400px;
+  height: 410px;
 }
 
 @media (max-width: 1300px) {
@@ -785,4 +785,5 @@ body {
   100% {
     opacity: 1;
   }
+
 }
